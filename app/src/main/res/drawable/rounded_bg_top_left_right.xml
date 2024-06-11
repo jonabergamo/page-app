@@ -1,0 +1,5 @@
+<!-- res/drawable/rounded_top_corners.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FFFFFF" /> <!-- Cor de fundo do ConstraintLayout -->
+    <corners android:topLeftRadius="50dp" android:topRightRadius="50dp" /> <!-- Ajuste o valor para o raio desejado -->
+</shape>

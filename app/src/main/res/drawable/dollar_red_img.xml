@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Primeiro, defina o shape que funcionará como fundo -->
+    <item android:drawable="@drawable/rounded_bg" />
+
+    <!-- Em seguida, adicione a imagem que deseja exibir -->
+    <item
+        android:drawable="@drawable/dollar_red"
+        android:gravity="center"
+        android:width="30dp"
+        android:height="30dp" />
+</layer-list>
